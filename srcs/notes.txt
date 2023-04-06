@@ -1,0 +1,12 @@
+1 - count how many elements are in stack are
+2 - make sorting frameworks for
+	|_3
+	|_5
+	|_100
+	|_500
+3 - for 3, compare middle, top and bottom and react accordingly. NO NEED FOR STACK B.
+4 - for 5, start with pb->pb to leave stack A with 3 elements. 
+	4.1 - sort stack a with the sorting 3 algorithm
+	4.2 - see if the top number of B can fit on top or bottom of A. adjust A accordingly.
+	4.3 - push top of B into top of A and reverse if needed.
+	4.4 - do step 4.2 again

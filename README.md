@@ -6,4 +6,4 @@ To run it, go into the terminal and first use ```make```. Then, run the program 
 
 NOTE: Using strings, repeated numbers or numbers higher than MAX_INT (or lower than MAX_INT) will result in an error.
 
-A better description will be added shortly.
+A better description will be added shortly, including the list of what does each command do.
